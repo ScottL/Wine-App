@@ -1,0 +1,69 @@
+/*My css code*/
+
+.Login-Introduction .login-message{
+    text-align: center;
+}
+.wineInfo-btCls{
+    font-size: 90%;
+}
+.backBt{
+    font-size: medium;
+}
+
+.wineListItem-cls{
+    font-size: small;
+}
+
+/*Wine info table*/
+.wineInfoTable .leftSideofTable{
+    width: 45%;
+}
+.wineInfoTable .rightSideofTable{
+    width: 55%;
+}
+.wineInfoTable tr:nth-child(odd){
+    background-color: #f1f8f6;
+}
+.wineInfoTable tr:nth-child(even){
+    background-color: #eaebff;
+}
+
+/*user info table*/
+.wineInfoTable .leftSideofUserTable{
+    width: 75%;
+}
+.wineInfoTable .rightSideofUserTable{
+    width: 25%;
+}
+.userInfoTable tr:nth-child(odd){
+    background-color: #f1f8f6;
+}
+.userInfoTable tr:nth-child(even){
+    background-color: #eaebff;
+}
+
+/*review table*/
+.reviewTable tr:nth-child(odd){
+    background-color: #f1f8f6;
+}
+.reviewTable tr:nth-child(even){
+    background-color: #eaebff;
+}
+
+.yellowStar{
+    background-image: url('../../resources/icons/myIcons/star-yellow-18.png');
+}
+.yellowStar_bigger{
+    background-image: url('../../resources/icons/myIcons/star-icon-32.png');
+}
+/*journal wine info page*/
+.journalWineInfoTable_cls{
+    font-size: small;
+}
+
+/*journal wine review*/
+.journal-reviews-cls{
+    font-size: small;
+}
+
+/* End my css code*/
